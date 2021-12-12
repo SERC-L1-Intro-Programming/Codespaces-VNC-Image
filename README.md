@@ -8,7 +8,7 @@ Add the following to `.devcontainer/devcontainer.json` settings file.
 
 ```json
 {
-  "image": "ghcr.io/markpatterson27/codespaces-vnc-image:universal",
+  "image": "ghcr.io/serc-l1-intro-programming/codespaces-vnc-image:python",
   "forwardPorts": [6080]
 }
 ```
